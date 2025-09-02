@@ -13,13 +13,12 @@ summary: "A program made in my ICS 211 class that holds records in a linked list
 
 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The record holder is a program made in C that holds records as objects and stores them in a linked list structure. The program allows users the ability to add new records, search for existing ones, show all existing, and delete records. The program also has a debug feature that helps when implementing new functions. The program maintains records in order and ensures that memory is managed correctly, preventing memory leaks.  
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This project was done by myself in my ICS 211 class and I was able to gain experience with coding in C. I was able to apply my knowledge of C to utilize pointers to create a linked list structure. I was responsible for creating a user interface and implementing various functions that allowed for modification/reading of the record list. Some of the functions required the use and knowledge of pointers for the individual nodes in the list. I also needed to implement a debug mode which printed important information that was being passed, modified and returned by the individual functions.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I learned the importance of taking things step by step with memory management. I learned to be careful to avoid memory leaks or useless pointers. The debug mode helped me realize that it is useful to have a way of tracking the programs behavior when testing the program. The record holder project helped me to build confidence in building a data structure and facing the challenges that come with it. I also became more comfortable with C's standard input/output functions when developing the interface used for this project.    
 
-Here is some example code to illustrate Simple Schema use:
 
 <img class="img-fluid" src="../img/record-holder/active.png">
 
