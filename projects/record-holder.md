@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/record-holder/recordhome.png
 title: "Record Holder"
 date: 2024
 published: true
@@ -9,7 +9,7 @@ labels:
   - C
 summary: "A program made in my ICS 211 class that holds records in a linked list and has features for modifying the list."
 ---
-<img class="img-fluid" src="../img/record-holder/active.png">
+
 
 
 
@@ -21,6 +21,7 @@ In this project I gained experience with full-stack web application design and a
 
 Here is some example code to illustrate Simple Schema use:
 
+<img class="img-fluid" src="../img/record-holder/active.png">
 
  
 Source: <a href="https://github.com/andrewBushong/record-holder">andrewBushong/record-holder</a>
