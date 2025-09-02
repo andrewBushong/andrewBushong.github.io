@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/record-holder/recordhome.png
+image: img/record-holder/recordhome1.png
 title: "Record Holder"
 date: 2024
 published: true
