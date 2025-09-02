@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/finalgrade/menu.png
 title: "Final Grade Calculator"
 date: 2024
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "A tool used to calculate a final grade with weighted topics in mind. Is capable of calculating a final grade needed for a certain grade."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/finalgrade/menu.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
