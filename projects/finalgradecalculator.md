@@ -22,4 +22,4 @@ Here is some example code to illustrate Simple Schema use:
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://github.com/andrewBushong/final-grade-calculator">andrewBushong/final-grade-calculator</a>
