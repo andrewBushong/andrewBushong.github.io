@@ -10,7 +10,7 @@ labels:
 summary: "A community event that I managed involving recycling."
 ---
 
-<img class="img-fluid" src="../img/recycle-proj/home.png">
+<img class="img-fluid" src="../img/recycle-proj/flyer.png">
 
 This was a project done in highschool that was focused around recycling in the community. It was held at my highschool and was ran by the Kokua Hawaii Foundation. This event allowed members of the community to drive through the school and drop off a variety of recyclables. The goal of the project was to encourage sustainable practices while having an accessible way to recycle. 
 
