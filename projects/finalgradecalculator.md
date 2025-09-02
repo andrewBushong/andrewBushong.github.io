@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/finalgrade/menu.png
+image: img/finalgrade/fgcrop.png
 title: "Final Grade Calculator"
 date: 2024
 published: true
