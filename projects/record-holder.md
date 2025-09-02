@@ -8,7 +8,8 @@ published: true
 labels:
   - C
 summary: "A program made in my ICS 211 class that holds records in a linked list and has features for modifying the list."
-
+---
+<img class="img-fluid" src="../img/record-holder/active.png">
 
 
 
@@ -19,8 +20,7 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
 
 Here is some example code to illustrate Simple Schema use:
----
-<img class="img-fluid" src="../img/record-holder/active.png">
+
 
  
 Source: <a href="https://github.com/andrewBushong/record-holder">andrewBushong/record-holder</a>
