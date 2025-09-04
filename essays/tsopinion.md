@@ -10,7 +10,7 @@ labels:
   - Athletic SWE
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/tsopinion/statvsdyn.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/tsopinion/statvsdyn.jpg">
 
 
 ## Static or Dynamic Typing?
