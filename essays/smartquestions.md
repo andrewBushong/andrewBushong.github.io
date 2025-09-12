@@ -32,3 +32,18 @@ Informed questions don't need to be long to be specific and this user on Stack O
 
 ![Smart answer example](../img/smartquestions/smartanswer.png)
 
+## Understanding Lazy Questions
+
+Lazy questions are the opposite of informed questions. These questions lack context, don't show effort, and leave out crucial details. Asking lazy questions forces others to assume your problem rather than understand your problem. The effects of these questions can:
+- **Slow down the problem solving process:** Time will be wasted trying to clarify details and understand the problem at hand.
+- **Frustrate others trying to help:** When the problem is not stated in a clear manner, others are forced to guess the problem and this wastes their time. 
+- **Discourage others from responding at all:** People who come across lazy questions frequently, will be less encouraged to try to help. If the asker isn't showing effort they may think *"Why should I spend my time helping someone who doesn't want to help themselves?*
+
+Here is an example of a lazy question: 
+
+*"Why doesn't my code work? I am getting errors."*
+```typescript
+function addObjectProperties(object1: object, object2: object) {
+  return object1.color + object2.color;
+}
+
