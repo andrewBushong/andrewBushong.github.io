@@ -60,4 +60,5 @@ How could we turn this into an informed question?
 - Give more context about the objects and object data being passed into the function.
 - Show that you put effort into the problem beforehand by giving information about what you think the error is based off of debugging attempts.
 
-
+**Takeaways:**
+The differences between informed and lazy questions are related to clarity, effort, and context. A well rounded question not only makes it easier for others to give you helpful answers, but it also demonstrates that you are appreciative and value the answers that you recieve. On the other hand, lazy questions force others to compensate for the lack of effort put into forming the question. In the end, asking informed questions is about more than just getting the answer to your problem, it's about communicating at an efficient and collaborative manner while showing respect to the people that are kind enough to help.
