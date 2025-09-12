@@ -25,9 +25,9 @@ Given that effort is put into the problem beforehand, an informed question shoul
 These properties of questions can help people to recieve *helpful* answers in a timely and non-stressful manner.
 
 Here is an example of an informed question:
-<img width="1000px" class="rounded float-start pe-4" src="../img/smartquestions/smartquestion.png">
+<img width="700px" class="rounded float-start pe-4" src="../img/smartquestions/smartquestion.png">
 
 Informed questions don't need to be long to be specific and this user on stack overflow demonstrated just that. What makes this question informed? They explained their context, showed their attempt to make the loop, and described the error message that they have encountered. The details that were included helped to give enough information for a helpful answer and it demonstrates that effort was put in to solve the problem beforehand. Since the user checked the boxes of an informed question, they were rewarded with a singular comment that resolved their problem:
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/smartquestions/smartanswer.png">
+<img width="700px" class="rounded float-start pe-4" src="../img/smartquestions/smartanswer.png">
 
