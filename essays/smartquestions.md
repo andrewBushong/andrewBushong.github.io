@@ -10,7 +10,6 @@ labels:
   - Life Skills
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/tsopinion/statvsdyn.jpg">
 
 
 ## Understanding the Purpose of a Question
@@ -23,5 +22,12 @@ When a question is considered to be informed, it goes beyond just requesting inf
 
 Given that effort is put into the problem beforehand, an informed question should be specific. The question should outline exactly what the problem is, what has been attempted, and where the confusion is still at. Specificity helps to make questions easier to answer and also prevents the parties from wasting time clarifying details.
 
+These properties of questions can help people to recieve *helpful* answers in a timely and non-stressful manner.
+
 Here is an example of an informed question:
 <img width="1000px" class="rounded float-start pe-4" src="../img/smartquestions/smartquestion.png">
+
+Informed questions don't need to be long to be specific and this user on stack overflow demonstrated just that. What makes this question informed? They explained their context, showed their attempt to make the loop, and described the error message that they have encountered. The details that were included helped to give enough information for a helpful answer and it demonstrates that effort was put in to solve the problem beforehand. Since the user checked the boxes of an informed question, they were rewarded with a singular comment that resolved their problem:
+
+<img width="1000px" class="rounded float-start pe-4" src="../img/smartquestions/smartanswer.png">
+
