@@ -39,11 +39,25 @@ Lazy questions are the opposite of informed questions. These questions lack cont
 - **Frustrate others trying to help:** When the problem is not stated in a clear manner, others are forced to guess the problem and this wastes their time. 
 - **Discourage others from responding at all:** People who come across lazy questions frequently, will be less encouraged to try to help. If the asker isn't showing effort they may think *"Why should I spend my time helping someone who doesn't want to help themselves?*
 
-Here is an example of a lazy question: 
+This would be an example of a lazy question: 
 
 *"Why doesn't my code work? I am getting errors."*
 ```typescript
-function addObjectProperties(object1: object, object2: object) {
+function addColors(object1: object, object2: object) {
+  this.home[0].color = object1.color + object2.color;
   return object1.color + object2.color;
 }
+```
+
+This post would be deemed as a lazy question and it's likely that no one would touch it with a 10 foot pole. It's vague and does not provide details that are necessary for understanding the problem. An answer to this could be: 
+
+*"Maybe object1 or object2 doesn't have a color property. Or maybe this.home[0] is undefined."* 
+
+Lazy questions influence lazy answers and the specificity of the answer is directly correlated to the way the question was asked. People need to guess the problem then give their answer to their guessed problem.
+
+How could we turn this into an informed question?
+- List the specific errors.
+- Give more context about the objects and object data being passed into the function.
+- Show that you put effort into the problem beforehand by giving information about what you think the error is based off of debugging attempts.
+
 
