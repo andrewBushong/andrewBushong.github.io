@@ -18,11 +18,11 @@ Questions are a tool for learning. This tool, like other tools, can be used in a
 
 ## The Benefits of Informed Questions
 
-When a question is considered to be informed, it goes beyond just requesting information. An informed question should be formed in a way that shows others that the asker has put their own effort into understanding and trying to fix the problem. That important aspect of a question will signal to others that you value the answers that you recieve. 
+When a question is considered to be informed, it goes beyond just requesting information. An informed question should be formed in a way that shows others that the asker has put their own effort into understanding and trying to fix the problem. That important aspect of a question will signal to others that you value the answers that you receive. 
 
 Given that effort is put into the problem beforehand, an informed question should be specific. The question should outline exactly what the problem is, what has been attempted, and where the confusion is still at. Specificity helps to make questions easier to answer and also prevents the parties from wasting time clarifying details.
 
-These properties of questions can help people to recieve *helpful* answers in a timely and non-stressful manner.
+These properties of questions can help people to receive *helpful* answers in a timely and non-stressful manner.
 
 Here is an example of an informed question:
 
@@ -62,4 +62,4 @@ How could we turn this into an informed question?
 
 **Takeaways:**
 
-The differences between informed and lazy questions are related to clarity, effort, and context. A well rounded question not only makes it easier for others to give you helpful answers, but it also demonstrates that you are appreciative and value the answers that you recieve. On the other hand, lazy questions force others to compensate for the lack of effort put into forming the question. In the end, asking informed questions is about more than just getting the answer to your problem, it's about communicating at an efficient and collaborative manner while showing respect to the people that are kind enough to help.
+The differences between informed and lazy questions are related to clarity, effort, and context. A well rounded question not only makes it easier for others to give you helpful answers, but it also demonstrates that you are appreciative and value the answers that you receive. On the other hand, lazy questions force others to compensate for the lack of effort put into forming the question. In the end, asking informed questions is about more than just getting the answer to your problem, it's about communicating at an efficient and collaborative manner while showing respect to the people that are kind enough to help.
