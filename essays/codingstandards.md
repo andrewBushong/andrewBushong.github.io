@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/tsopinion/statvsdyn.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/codingstandards/cantread.avif">
 
 ## Coding Standards In a Collaborative Setting
 
