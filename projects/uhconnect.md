@@ -9,7 +9,7 @@ labels:
   - Javascript
   - HTML/CSS
   - PostgreSQL
-summary: "Web application with the purpose of connecting gamers at the University of Hawaii. Created in my software engineering class.
+summary: "Web application with the purpose of connecting gamers at the University of Hawaii. Created in my software engineering class."
 ---
 
 <img class="img-fluid" src="../img/uhconnect/home.png">
