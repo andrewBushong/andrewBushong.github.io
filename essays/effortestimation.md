@@ -4,7 +4,7 @@ type: essay
 title: "The Importance of Effort Estimation"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-14
-published: true
+published: false
 labels:
   - Time Management
   - Software Engineering

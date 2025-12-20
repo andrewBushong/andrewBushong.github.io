@@ -4,7 +4,7 @@ type: essay
 title: "What About Typescript?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-04
-published: true
+published: false
 labels:
   - Typescript
   - Athletic SWE
